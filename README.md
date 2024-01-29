@@ -23,11 +23,33 @@ Project Engineer <br/>
 •	Familiar with Database systems such as Excel and My SQL. <br/>
 •	Developing and maintaining robust e-office systems, including designing and implementing data models to manage Employee Master Data Management. <br/>
 
-### PROJECTS
-•	CMPFO Employee Master Data Dashboard: <br/>
-Employee Master Data Dashboard is visual representation of data insights | Integrate data from various sources | Utilizing interactive reports | Enables users to analyze and explore employee data. <br/>
-•	Covid-19 Global Analysis Dashboard: <br/>
-Covid-19 Global Analysis Dashboard is a visualized platform represents real-time or periodically updated information about the Covid-19 pandemic | Typically includes key metrics such as the number of Confirmed cases, Recoveries, Death globally, Graphs, Charts and Maps are commonly used to illustrate trends | The goal is to provide user-friendly interface for individuals and Healthcare professionals. 
+## Projects
+
+<img align="left" width="250" height="300" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
+
+An Employee Master Data Dashboard is a centralized platform or tool that provides a comprehensive and organized overview of key information about an organization's workforce. This dashboard serves as a valuable resource for HR professionals, managers, and stakeholders to efficiently manage and analyze employee data.
+1. Employee Overview: Display of total number of employees, breakdown by departments, sections, or locations.
+2. Personal Information: Individual employee profiles with details like name, employee ID, position, and contact information.
+3. Employment Status: Information on the employment status of each employee (e.g., active, on leave, terminated).
+
+# <br />
+
+<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
+
+In the midst of these challenging times, the need for informed decision-making has never been more crucial. This dashboard serves as a beacon, providing a comprehensive overview of the worldwide impact of COVID-19. 🚀
+
+At its core, this project is a testament to the power of data in shaping our understanding of the pandemic's complexities. The dashboard offers a real-time snapshot of infection rates, recovery trends, and critical healthcare statistics, empowering individuals and organizations to make informed choices. It's not just data; it's a tool for strategic decision-making in the face of a global health crisis. 💡
+
+# <br />
+
+<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard/blob/master/Covid_Vaccination_State-Wise.jpg"> **[COVID-19 Vaccination Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard.git)**
+
+The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states. State-Specific data delivers detailed vaccination statistics for each state, enabling localized tracking and analysis.
+1. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
+2. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
+3. Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
+   
+<br />
 
 ### CERTIFICATION
 •	Data Science Bootcamp (Udemy) : Working on it <br/>
