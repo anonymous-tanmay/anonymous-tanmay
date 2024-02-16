@@ -51,13 +51,13 @@ The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides
    
 <br />
 
-### CERTIFICATION
-•	Data Science Bootcamp (Udemy) : Working on it <br/>
-•	Competitor Analysis (Semrush): Data Analysis | Advance Excel | ETL | Data Visualization | Business Requirement | Microsoft Power BI <br/>
-•	Data Science with Python (Simplilearn): Data Wrangling | Mathematical Computing | Web Scrapping | Hypothesis Building | Data Exploration | Python Concepts <br/>
-•	Mastering using MS Excel (Alison): Data Analysis | Formulas | Pivot Tables <br/>
-•	Python Foundation (LinkedIn): Python Libraries | Python Programming Concepts
+## Certificates
 
+- [Complete Data Science Bootcamp by Udemy](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Udemy_The%20Complete%20Data%20Science.jpg)
+- [Competitor Analysis by Semrush](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Semrush_Competitor%20Analysis.pdf)
+- [Data Science with Python by Simplilearn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
+- [Mastering using MS Excel by Alison](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Alison%20Certification%20of%20Compeltion.jpg)
+- [Python Foundation by LinkedIn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/b18c7bba7b8a952f4c1e8160d83c179a2e5202c9/Certificates/Python%202020_LinkedIn.png)
 
 ### EDUCATION
 •	MCA: Master of Computer Application – 7 CGPA 2021 <br/>
