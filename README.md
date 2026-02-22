@@ -1,63 +1,65 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= HERO ================= -->
 
-<h1 align="center">Hi 👋 I'm Tanmay Raj</h1>
+<h1 align="center">🚀 Tanmay Raj</h1>
 
 <h3 align="center">
 Data Analyst • Aspiring Data Scientist • MCA Graduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Turning+Data+into+Business+Strategy;Power+BI+Dashboard+Developer;Python+Data+Analytics+Enthusiast;Available+for+Freelance+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Turning+Data+into+Business+Strategy;Power+BI+Dashboard+Developer;Python+Data+Analytics+Specialist;Available+for+Freelance+Projects" />
 </p>
 
 <p align="center">
-  <a href="mailto:tanmay.thakur632@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Freelance%20Available-brightgreen?style=for-the-badge"/>
-  </a>
-  <a href="https://anonymous-tanmay.github.io/Portfolio.github.io/">
-    <img src="https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge"/>
-  </a>
+<a href="mailto:tanmay.thakur632@gmail.com">
+<img src="https://img.shields.io/badge/Hire%20Me-Freelance%20Available-success?style=for-the-badge"/>
+</a>
+
+<a href="https://anonymous-tanmay.github.io/Portfolio.github.io/">
+<img src="https://img.shields.io/badge/View-Live%20Portfolio-blue?style=for-the-badge"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anonymous-tanmay&label=Visitors&color=blue&style=flat"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I am an MCA graduate with 4+ years of real-world enterprise data handling experience.
+MCA Graduate with 4+ years experience in handling enterprise-level structured data and MIS reporting systems across large-scale digital transformation projects.
 
-I have worked on large-scale government digital transformation projects managing:
+Now focused on delivering:
 
-✔ Structured Databases  
-✔ MIS Reporting Systems  
-✔ Enterprise Dashboards  
-✔ Data Monitoring & Logs  
-✔ KPI Analytics  
+✔ Data Cleaning  
+✔ Dashboard Automation  
+✔ Business Intelligence  
+✔ KPI Reporting  
+✔ Data Visualization  
+✔ Python EDA  
 
-Now transitioning fully into Data Science & Analytics for global freelance opportunities.
-
----
-
-# 💎 What Makes Me Different
-
-✔ Industry Experience + Data Skills  
-✔ Dashboard + Backend Understanding  
-✔ Business-Oriented Thinking  
-✔ Strong Communication  
-✔ Problem Solver Mindset  
-
-I don't just analyze data.  
-I convert it into decision-making tools.
+for Freelance & Remote Clients.
 
 ---
 
-# 🛠 Technical Expertise
+# 📊 Data Impact Stats
 
-### 👨‍💻 Programming
+| Metric | Value |
+|--------|-------|
+| Experience | 4+ Years |
+| Dashboards Built | 10+ |
+| MIS Reports Generated | 200+ |
+| Enterprise Data Handled | 50K+ Rows |
+
+---
+
+# 🛠 Tech Stack
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,r,html,css,js"/>
 </p>
 
-### 📊 Analytics & BI
 <p>
 <img src="https://img.shields.io/badge/PowerBI-Advanced-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tableau-Intermediate-blue?style=for-the-badge"/>
@@ -66,31 +68,38 @@ I convert it into decision-making tools.
 
 ---
 
-# 📊 Featured Projects
+# 📊 Featured Dashboard Projects
 
 ## 👨‍💼 Employee Master Data Dashboard
 
-🔹 Workforce KPI Monitoring  
-🔹 Interactive Drilldown Reports  
-🔹 HR Insights Automation  
+<img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" width="700"/>
 
-📎 Tools: Power BI | Excel  
+### Case Study:
 
-👉 Repository:  
-https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
+✔ Integrated multi-source HR datasets  
+✔ KPI Monitoring Automation  
+✔ Workforce Trend Analysis  
+✔ Interactive Drilldown Reporting  
+
+📎 Tools Used: Power BI | Excel  
+
+👉 https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
 
 ---
 
 ## 🦠 COVID-19 Global Analytics Dashboard
 
-🔹 Time Series Analysis  
-🔹 Trend Visualization  
-🔹 Global Insights Reporting  
+<img src="YOUR_COVID_DASHBOARD_IMAGE_LINK_HERE" width="700"/>
 
-📎 Tools: Power BI  
+### Case Study:
 
-👉 Repository:  
-https://github.com/anonymous-tanmay/Covid_Dashboard  
+✔ Global Trend Monitoring  
+✔ Time Series Analysis  
+✔ Data Visualization  
+
+📎 Tools Used: Power BI  
+
+👉 https://github.com/anonymous-tanmay/Covid_Dashboard  
 
 ---
 
@@ -106,22 +115,21 @@ https://github.com/anonymous-tanmay/Covid_Dashboard
 
 ---
 
-# 🧠 Currently Working On
+# 🐍 Contribution Snake
 
-🚀 Python Data Projects  
-🚀 Machine Learning Foundations  
-🚀 Advanced SQL Queries  
-🚀 Freelance Analytics Gigs  
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 # 💼 Services I Offer
 
 ✔ Power BI Dashboard Development  
-✔ Excel Automation & Reporting  
-✔ Data Cleaning & EDA (Python)  
-✔ SQL Query Writing & Optimization  
-✔ Business Insight Reports  
+✔ Excel Automation  
+✔ Python EDA  
+✔ SQL Data Queries  
+✔ Business Insight Reporting  
 
 ---
 
@@ -134,7 +142,7 @@ https://github.com/anonymous-tanmay/Covid_Dashboard
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact Me
 
 📧 tanmay.thakur632@gmail.com  
 📱 +91 8083603042  
@@ -142,5 +150,5 @@ https://github.com/anonymous-tanmay/Covid_Dashboard
 ---
 
 <p align="center">
-⭐ Let’s Transform Data into Strategic Growth ⭐
+⭐ Let’s Turn Your Data into Business Growth ⭐
 </p>
