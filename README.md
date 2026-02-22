@@ -1,24 +1,22 @@
-<!-- ================= DARK PROFESSIONAL HEADER ================= -->
+<!-- ================= PROFESSIONAL HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanmay%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:1B2735&height=200&section=header&text=Tanmay%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h2 align="center">Data Analyst | Aspiring Data Scientist | Power BI Specialist</h2>
+<h2 align="center">Data Analyst | Aspiring Data Scientist | 4+ Years Experience</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Power+BI+Dashboard+Expert;SQL+%7C+Python+%7C+Analytics;Future+Machine+Learning+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=SQL+%7C+Power+BI+%7C+Python;Business+Intelligence+Specialist;Building+Machine+Learning+Projects;Turning+Data+into+Business+Impact"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Professional Summary
 
-🔹 4+ Years Experience in Data Analysis & e-Office Implementation  
-🔹 Built Pan-India Employee Dashboard (CMPFO)  
-🔹 Strong in SQL, Power BI & Data Visualization  
-🔹 Currently building Machine Learning & Python expertise  
-🔹 Passionate about solving real-world problems using Data  
+Data Analyst with 4+ years of experience in data management, reporting automation, and dashboard development. Proven ability to transform raw data into actionable insights using SQL, Power BI, and Python.  
+
+Currently transitioning into Data Science with hands-on Machine Learning projects and model deployment learning.
 
 📍 India  
 📧 tanmay.thakur632@gmail.com  
@@ -26,74 +24,86 @@
 
 ---
 
-# 🛠 Tech Stack
+# 💼 Professional Experience
 
-### 💻 Programming
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+## Project Engineer  
+**Silver Touch Technologies Ltd. | May 2023 – Present**
 
-### 📊 Data & BI Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Designed and deployed Pan-India CMPFO Employee Dashboard using Power BI  
+- Managed and cleaned structured employee master datasets  
+- Automated reporting workflows using SQL & Excel  
+- Improved reporting accuracy and data visibility  
+- Collaborated with cross-functional teams for digital e-Office implementation  
 
 ---
 
-# 🧠 Machine Learning Showcase (Building Phase 🚀)
+# 🛠 Technical Skills
 
-🔬 Currently working on:
+### Programming & Analytics
+- SQL (Advanced Queries, Joins, Aggregations)
+- Python (Pandas, NumPy, Matplotlib)
+- R (Intermediate)
 
-✔ Regression Models  
-✔ Classification Models  
-✔ EDA using Pandas & Matplotlib  
-✔ Model Evaluation (Accuracy, RMSE, F1 Score)  
-✔ Streamlit Deployment  
+### Data Visualization
+- Power BI (DAX, Data Modeling, Dashboard Design)
+- Excel (Advanced Functions, Pivot Tables)
+- Tableau
 
-📌 Upcoming Projects:
-- House Price Prediction (Regression)
-- Customer Churn Prediction (Classification)
-- End-to-End ML Deployment Project
+### Databases
+- MySQL
 
----
-
-# 📊 Power BI Project Highlights
-
-### 📁 CMPFO Employee Master Data Dashboard
-🔗 https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
-
-<p align="center">
-  <img src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg" width="600"/>
-</p>
-
-✔ Department-level analytics  
-✔ Employment status monitoring  
-✔ Pan-India HR insights  
+### Currently Learning
+- Machine Learning (Regression, Classification)
+- Model Evaluation & Deployment
+- Streamlit
 
 ---
 
-### 🌍 COVID-19 Global Analysis Dashboard
-🔗 https://github.com/anonymous-tanmay/Covid_Dashboard  
+# 📊 Featured Projects
 
-<p align="center">
-  <img src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg" width="600"/>
-</p>
+## 📁 CMPFO Employee Master Data Dashboard
+🔗 Repository:  
+https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
 
-✔ Country comparison  
+✔ Department-wise employee distribution  
+✔ Employment lifecycle tracking  
+✔ HR analytics dashboard  
+✔ Centralized data reporting  
+
+---
+
+## 🌍 COVID-19 Global Analysis Dashboard
+🔗 Repository:  
+https://github.com/anonymous-tanmay/Covid_Dashboard  
+
+✔ Country-level case comparison  
 ✔ Mortality & recovery analysis  
-✔ Time-series visualization  
+✔ Time-series trend visualization  
 
 ---
 
-# 📈 GitHub Analytics
+## 💉 COVID-19 Vaccination Dashboard
+🔗 Repository:  
+https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard  
+
+✔ State-wise vaccination progress  
+✔ Demographic breakdown analysis  
+✔ Public data insights  
+
+---
+
+# 🧠 Data Science Roadmap
+
+Currently building:
+
+- End-to-End Machine Learning Projects  
+- Regression & Classification Models  
+- Real-world Dataset Analysis  
+- Model Deployment using Streamlit  
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -103,71 +113,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-tanmay&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-tanmay&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Animated Contribution Snake
-
-### ⚠️ After adding this README, create this GitHub Action:
-
-Create file:
-.github/workflows/snake.yml
-
-Paste:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: anonymous-tanmay
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Then add this to README bottom:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anonymous-tanmay/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 # 🏆 Certifications
 
-🎓 Microsoft Certified: Power BI Data Analyst Associate  
-🎓 Data Science Bootcamp – Udemy  
-🎓 Data Science with Python – Simplilearn  
-🎓 Python Foundation – LinkedIn  
-🎓 MS Excel – Alison  
+- Microsoft Certified: Power BI Data Analyst Associate  
+- Data Science with Python  
+- Complete Data Science Bootcamp  
+- Python Foundation  
+- Advanced Excel  
 
 ---
 
-# 🎯 2026 Career Goal
+# 🎯 Career Objective
 
-🚀 Transition into Data Scientist Role  
-📊 Build End-to-End ML Systems  
-🌐 Deploy Real-World AI Applications  
-📈 Solve Business Problems Using Data  
+Seeking Data Analyst / Junior Data Scientist roles where I can apply data-driven problem-solving skills to create measurable business impact.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,50:243B55,100:141E30&height=120&section=footer"/>
 </p>
