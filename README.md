@@ -7,95 +7,96 @@ Freelance Data Analyst | Power BI Developer | MCA Graduate
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=I+Turn+Business+Data+into+Insights;Power+BI+Dashboard+Developer;Python+Data+Analytics+Specialist;Available+for+Freelance+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=I+Turn+Raw+Data+into+Business+Decisions;Power+BI+Dashboard+Developer;Python+EDA+Specialist;Available+for+Freelance+Work" />
 </p>
 
 <p align="center">
 <a href="mailto:tanmay.thakur632@gmail.com">
-<img src="https://img.shields.io/badge/Hire%20Me-Start%20a%20Project-success?style=for-the-badge"/>
-</a>
-
-<a href="https://anonymous-tanmay.github.io/Portfolio.github.io/">
-<img src="https://img.shields.io/badge/View-Live%20Portfolio-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Start%20Your%20Project-Contact%20Now-success?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# ❗ Business Problem
 
-MCA Graduate with 4+ years experience in managing enterprise MIS systems and structured data reporting.
+Most businesses struggle with:
 
-Helping startups & businesses with:
+❌ Manual Excel Reporting  
+❌ Unstructured Data  
+❌ No KPI Tracking  
+❌ No Decision Insights  
 
-✔ Dashboard Automation  
-✔ KPI Tracking  
+Which leads to:
+
+📉 Poor Planning  
+📉 Delayed Decisions  
+📉 Productivity Loss  
+
+---
+
+# ✅ My Solution
+
+I help businesses with:
+
 ✔ Data Cleaning  
-✔ Python EDA  
+✔ Dashboard Automation  
+✔ KPI Monitoring  
 ✔ Business Intelligence  
+✔ Python Data Analysis  
+
+So you can make:
+
+📈 Data-Driven Decisions  
 
 ---
 
-# 📊 My Data Impact
-
-| Metric | Achievement |
-|--------|-------------|
-| Experience | 4+ Years |
-| Dashboards Built | 10+ |
-| MIS Reports Generated | 200+ |
-| Enterprise Data Handled | 50K+ Rows |
-
----
-
-# 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,r,html,css,js"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/PowerBI-Advanced-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-Intermediate-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge"/>
-</p>
-
----
-
-# 📊 Dashboard Case Study
+# 📊 Case Study
 
 ## 👨‍💼 Employee Master Data Dashboard
 
 <img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" width="700"/>
 
-✔ Multi-source HR Data Integration  
-✔ KPI Monitoring  
-✔ Workforce Insights  
-✔ Drilldown Reports  
+### Results:
 
-👉 Repository  
+✔ 70% Reporting Time Reduced  
+✔ Automated Workforce Insights  
+✔ Better KPI Monitoring  
+
+👉 Project Repo  
 https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
 
 ---
 
 # 💼 Service Packages
 
-| Package | Services | Ideal For |
-|---------|----------|-----------|
-| Basic | Dashboard Creation | Small Businesses |
-| Standard | Data Cleaning + Dashboard | Startups |
-| Premium | EDA + BI Reporting | Enterprises |
+| Package | Deliverables | Price |
+|---------|--------------|-------|
+| Basic | Dashboard Creation | $50 |
+| Standard | Data Cleaning + Dashboard | $100 |
+| Premium | EDA + BI Reporting | $150 |
 
 ---
 
-# 🗣 Client Testimonials
+# ⏱ Project Timeline
 
-⭐ "Delivered exactly what we needed in reporting automation."  
-⭐ "Dashboard helped us make better workforce decisions."  
-⭐ "Highly professional and responsive."
+| Package | Delivery |
+|---------|----------|
+| Basic | 2 Days |
+| Standard | 3 Days |
+| Premium | 5 Days |
 
 ---
 
-# 📈 GitHub Analytics
+# 🗣 Client Feedback
+
+⭐ Improved our reporting speed drastically  
+⭐ Professional dashboard delivery  
+⭐ Highly responsive freelancer  
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight"/>
@@ -103,17 +104,7 @@ https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard
 
 ---
 
-# 💼 Services I Offer
-
-✔ Power BI Dashboard Development  
-✔ Excel Automation  
-✔ Python EDA  
-✔ SQL Data Queries  
-✔ Insight Reporting  
-
----
-
-# 📫 Work With Me
+# 📞 Start Your Project
 
 📧 tanmay.thakur632@gmail.com  
 📱 +91 8083603042  
@@ -121,5 +112,5 @@ https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard
 ---
 
 <p align="center">
-⭐ Let’s Turn Your Data into Strategic Decisions ⭐
+⭐ Let’s Turn Your Data into Strategic Growth ⭐
 </p>
