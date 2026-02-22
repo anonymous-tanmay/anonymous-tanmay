@@ -1,71 +1,76 @@
-<h1 align="center">Hi 👋, I'm Tanmay Raj</h1>
+<h1 align="center">🚀 Tanmay Raj</h1>
 <h3 align="center">Data Analyst | Aspiring Data Scientist | MCA Graduate</h3>
 
+<p align="center">
+Turning Raw Data into Actionable Business Intelligence 📊
+</p>
+
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 MCA Graduate with 4+ Years of Experience in Enterprise MIS Reporting  
+🎓 MCA Graduate with 4+ Years of Experience in Enterprise MIS Systems  
 📊 Passionate about Data Analytics, Machine Learning & Business Intelligence  
-📈 Experienced in transforming raw organizational data into actionable insights  
+📈 Experienced in Dashboarding, Data Cleaning & Insight Generation  
 📍 India  
 
----
-
-## 💼 Professional Experience
-
-✔ Project Lead – Silver Touch Technologies Ltd.  
-✔ MIS Reporting Automation  
-✔ Dashboard Development using Power BI  
-✔ Database Monitoring & Data Logging  
-✔ Enterprise Data Handling  
+- 🔭 Currently working on: Python Data Analytics Projects  
+- 🌱 Learning: Machine Learning & Advanced SQL  
+- 💬 Ask me about: Power BI, Excel, Python  
+- ⚡ Fun fact: I transform boring spreadsheets into business stories  
 
 ---
 
-## 🧠 Skills
+## 🛠 Tech Stack
 
-- Python  
-- SQL  
-- Power BI  
-- Tableau  
-- Excel  
-- Data Visualization  
-- ETL  
-- Machine Learning  
-- Hypothesis Testing  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,r,html,css,js" />
+</p>
 
----
-
-## 📊 Projects
-
-### 👨‍💼 Employee Master Data Dashboard
-Interactive HR Analytics Dashboard using Power BI
-
-### 🦠 COVID-19 Global Analysis Dashboard
-Time Series Analysis Dashboard of Pandemic Dataset
+<p align="center">
+<img src="https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow" />
+<img src="https://img.shields.io/badge/Tableau-Business%20Intelligence-blue" />
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-green" />
+</p>
 
 ---
 
-## 🛠 Tools & Technologies
+## 📊 Featured Projects
 
-`Python` `Power BI` `SQL` `Excel` `Tableau`
+| Project | Description | Tools |
+|--------|-------------|-------|
+| Employee Dashboard | HR Analytics & KPI Monitoring | Power BI |
+| COVID-19 Dashboard | Global Trend Analysis | Power BI |
+| MIS Reporting | Organizational Data Monitoring | Excel |
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
-- Microsoft Power BI  
-- Data Science with Python  
-- Advanced Excel  
-- Python Programming  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-tanmay" />
+</p>
+
+---
+
+## 🎓 Certifications
+
+✔ Microsoft Power BI  
+✔ Data Science with Python  
+✔ Advanced Excel  
+✔ Python Foundations  
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: tanmay.thakur632@gmail.com  
-📱 Phone: +91-8083603042  
+📧 **Email:** tanmay.thakur632@gmail.com  
+📱 **Phone:** +91 8083603042  
 
----
-
-⭐ *Transforming Data into Business Intelligence*
+<p align="center">
+⭐ Transforming Data into Business Intelligence ⭐
+</p>
