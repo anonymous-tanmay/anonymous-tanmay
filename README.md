@@ -1,23 +1,3 @@
-<!-- HERO SECTION -->
-
-<h1 align="center">🚀 Tanmay Raj</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist | MCA Graduate</h3>
-
-<p align="center">
-  Turning Raw Enterprise Data into Actionable Business Intelligence
-</p>
-
-<p align="center">
-  <a href="mailto:tanmay.thakur632@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Available%20for%20Freelance-success?style=for-the-badge"/>
-  </a>
-  <a href="https://anonymous-tanmay.github.io/Portfolio.github.io/">
-    <img src="https://img.shields.io/badge/View-Live%20Portfolio-blue?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
 <!-- ================= HERO SECTION ================= -->
 
 <h1 align="center">Hi 👋 I'm Tanmay Raj</h1>
