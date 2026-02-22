@@ -1,66 +1,125 @@
-# Data Scientist
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Tanmay Raj</h1>
+<h3 align="center">Data Analyst | Aspiring Data Scientist | Power BI Specialist</h3>
 
-### SKILLS
-● Programming Languages: SQL (proficient), Python (intermediate), R (intermediate) <br/>
-● Data Visualization: Power BI (proficient), Excel (proficient), Tableau (intermediate) <br/>
-● Frontend technologies: HTML/CSS (intermediate), JavaScript (intermediate) <br/>
-● Soft Skills: Communication, Collaboration, Creativity 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Power+BI+Developer;SQL+Specialist;Aspiring+Data+Scientist;Python+Learner&center=true&width=500&height=50">
+</p>
 
-### PROFESSIONAL EXPERIENCE
-Silver Touch Tech. Ltd. (New Delhi) <br/> 
-May 2023 - Present <br/>
-Project Engineer <br/>
-•	Analyzing and interpreting complex data sets to provide insights to exploits e-Office implementation.<br/>
-•	Familiar with Database systems such as Excel and My SQL.<br/>
-•	Developing and maintaining robust e-office systems, including designing and implementing data models and data sanitization to manage Employee Master Data Management. <br/>
-•	Collaborating with cross-functional teams to understand organisation requirements, identify data sources, and develop e-file solutions that support electronic office. <br/>
-•	Power BI create CMPFO Pan India Employee Dashboard. <br/>
+---
 
-IT Wings Info System Pvt. Ltd. (New Delhi) <br/>					
-July 2021 - Oct 2022 <br/>
-Project Engineer <br/>
-•	Collect and Analyzing Data to provide insights to exploits e-Office implementation. <br/>
-•	Familiar with Database systems such as Excel and My SQL. <br/>
-•	Developing and maintaining robust e-office systems, including designing and implementing data models to manage Employee Master Data Management. <br/>
+## 🚀 About Me
 
-## Projects
+🎯 4+ years of experience in Data Analysis & e-Office Implementation  
+📊 Specialized in Power BI, SQL & Dashboard Development  
+🐍 Currently strengthening Python & Machine Learning skills  
+📈 Passionate about turning raw data into actionable insights  
 
-<img align="left" width="250" height="300" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
+📍 India  
+📧 tanmay.thakur632@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-raj-633755167/)
 
-An Employee Master Data Dashboard is a centralized platform or tool that provides a comprehensive and organized overview of key information about an organization's workforce. This dashboard serves as a valuable resource for HR professionals, managers, and stakeholders to efficiently manage and analyze employee data.
-1. Employee Overview: Display of total number of employees, breakdown by departments, sections, or locations.
-2. Personal Information: Individual employee profiles with details like name, employee ID, position, and contact information.
-3. Employment Status: Information on the employment status of each employee (e.g., active, on leave, terminated).
+---
 
-# <br />
+## 🛠 Tech Stack
 
-<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
+### 💻 Programming
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-In the midst of these challenging times, the need for informed decision-making has never been more crucial. This dashboard serves as a beacon, providing a comprehensive overview of the worldwide impact of COVID-19. 🚀
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-At its core, this project is a testament to the power of data in shaping our understanding of the pandemic's complexities. The dashboard offers a real-time snapshot of infection rates, recovery trends, and critical healthcare statistics, empowering individuals and organizations to make informed choices. It's not just data; it's a tool for strategic decision-making in the face of a global health crisis. 💡
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# <br />
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard/blob/master/Covid_Vaccination_State-Wise.jpg"> **[COVID-19 Vaccination Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard.git)**
+---
 
-The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states. State-Specific data delivers detailed vaccination statistics for each state, enabling localized tracking and analysis.
-1. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
-2. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
-3. Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
-   
-<br />
+## 📂 Featured Projects
 
-## Certificates
+### 📊 CMPFO Employee Master Data Dashboard
+🔗 [Repository](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard)
 
-- [Complete Data Science Bootcamp by Udemy](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Udemy_The%20Complete%20Data%20Science.jpg)
-- [Competitor Analysis by Semrush](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Semrush_Competitor%20Analysis.pdf)
-- [Data Science with Python by Simplilearn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
-- [Mastering using MS Excel by Alison](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Alison%20Certification%20of%20Compeltion.jpg)
-- [Python Foundation by LinkedIn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/b18c7bba7b8a952f4c1e8160d83c179a2e5202c9/Certificates/Python%202020_LinkedIn.png)
+✔ Department-wise analysis  
+✔ Employment status tracking  
+✔ Employee profiling  
+✔ Centralized HR insights  
 
-### EDUCATION
-•	MCA: Master of Computer Application – 7 CGPA 2021 <br/>
-Galgotias College of Engineering & Technology, Greater Noida <br/>
-•	BCA: Bachelor of Computer Application – 6 SGPA					2018 <br/>
-BFIT College of Engineering & Technology, Dehradun <br/>
+---
+
+### 🌍 COVID-19 Global Analysis Dashboard
+🔗 [Repository](https://github.com/anonymous-tanmay/Covid_Dashboard)
+
+✔ Global case trends  
+✔ Recovery & mortality analysis  
+✔ Time-series visualization  
+✔ Comparative country insights  
+
+---
+
+### 💉 COVID-19 Vaccination Dashboard
+🔗 [Repository](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard)
+
+✔ State-wise vaccination tracking  
+✔ Demographic insights  
+✔ Trend analysis  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-tanmay&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-tanmay&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+🎓 Microsoft Certified: Power BI Data Analyst Associate  
+🎓 Data Science Bootcamp – Udemy  
+🎓 Data Science with Python – Simplilearn  
+🎓 Python Foundation – LinkedIn  
+🎓 MS Excel – Alison  
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Transition into Data Scientist role  
+- 📚 Master Machine Learning & Model Deployment  
+- 🌐 Deploy ML apps using Streamlit  
+- 🏆 Contribute to open-source projects  
+
+---
+
+## ⚡ Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tanmay-raj-633755167/">
+  <img src="https://img.shields.io/badge/LinkedIn-Tanmay%20Raj-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:tanmay.thakur632@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+⭐ From [Tanmay Raj](https://github.com/anonymous-tanmay)
