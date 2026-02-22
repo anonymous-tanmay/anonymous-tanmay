@@ -3,16 +3,16 @@
 <h1 align="center">🚀 Tanmay Raj</h1>
 
 <h3 align="center">
-Data Analyst • Aspiring Data Scientist • MCA Graduate
+Freelance Data Analyst | Power BI Developer | MCA Graduate
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Turning+Data+into+Business+Strategy;Power+BI+Dashboard+Developer;Python+Data+Analytics+Specialist;Available+for+Freelance+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=I+Turn+Business+Data+into+Insights;Power+BI+Dashboard+Developer;Python+Data+Analytics+Specialist;Available+for+Freelance+Work" />
 </p>
 
 <p align="center">
 <a href="mailto:tanmay.thakur632@gmail.com">
-<img src="https://img.shields.io/badge/Hire%20Me-Freelance%20Available-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hire%20Me-Start%20a%20Project-success?style=for-the-badge"/>
 </a>
 
 <a href="https://anonymous-tanmay.github.io/Portfolio.github.io/">
@@ -20,33 +20,26 @@ Data Analyst • Aspiring Data Scientist • MCA Graduate
 </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anonymous-tanmay&label=Visitors&color=blue&style=flat"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
 
-MCA Graduate with 4+ years experience in handling enterprise-level structured data and MIS reporting systems across large-scale digital transformation projects.
+MCA Graduate with 4+ years experience in managing enterprise MIS systems and structured data reporting.
 
-Now focused on delivering:
+Helping startups & businesses with:
 
-✔ Data Cleaning  
 ✔ Dashboard Automation  
-✔ Business Intelligence  
-✔ KPI Reporting  
-✔ Data Visualization  
+✔ KPI Tracking  
+✔ Data Cleaning  
 ✔ Python EDA  
-
-for Freelance & Remote Clients.
+✔ Business Intelligence  
 
 ---
 
-# 📊 Data Impact Stats
+# 📊 My Data Impact
 
-| Metric | Value |
-|--------|-------|
+| Metric | Achievement |
+|--------|-------------|
 | Experience | 4+ Years |
 | Dashboards Built | 10+ |
 | MIS Reports Generated | 200+ |
@@ -68,38 +61,37 @@ for Freelance & Remote Clients.
 
 ---
 
-# 📊 Featured Dashboard Projects
+# 📊 Dashboard Case Study
 
 ## 👨‍💼 Employee Master Data Dashboard
 
 <img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" width="700"/>
 
-### Case Study:
+✔ Multi-source HR Data Integration  
+✔ KPI Monitoring  
+✔ Workforce Insights  
+✔ Drilldown Reports  
 
-✔ Integrated multi-source HR datasets  
-✔ KPI Monitoring Automation  
-✔ Workforce Trend Analysis  
-✔ Interactive Drilldown Reporting  
-
-📎 Tools Used: Power BI | Excel  
-
-👉 https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
+👉 Repository  
+https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
 
 ---
 
-## 🦠 COVID-19 Global Analytics Dashboard
+# 💼 Service Packages
 
-<img src="YOUR_COVID_DASHBOARD_IMAGE_LINK_HERE" width="700"/>
+| Package | Services | Ideal For |
+|---------|----------|-----------|
+| Basic | Dashboard Creation | Small Businesses |
+| Standard | Data Cleaning + Dashboard | Startups |
+| Premium | EDA + BI Reporting | Enterprises |
 
-### Case Study:
+---
 
-✔ Global Trend Monitoring  
-✔ Time Series Analysis  
-✔ Data Visualization  
+# 🗣 Client Testimonials
 
-📎 Tools Used: Power BI  
-
-👉 https://github.com/anonymous-tanmay/Covid_Dashboard  
+⭐ "Delivered exactly what we needed in reporting automation."  
+⭐ "Dashboard helped us make better workforce decisions."  
+⭐ "Highly professional and responsive."
 
 ---
 
@@ -107,18 +99,6 @@ for Freelance & Remote Clients.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-tanmay&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -129,20 +109,11 @@ for Freelance & Remote Clients.
 ✔ Excel Automation  
 ✔ Python EDA  
 ✔ SQL Data Queries  
-✔ Business Insight Reporting  
+✔ Insight Reporting  
 
 ---
 
-# 🎓 Certifications
-
-✔ Microsoft Power BI  
-✔ Data Science with Python  
-✔ Advanced Excel  
-✔ Python Foundations  
-
----
-
-# 📫 Contact Me
+# 📫 Work With Me
 
 📧 tanmay.thakur632@gmail.com  
 📱 +91 8083603042  
@@ -150,5 +121,5 @@ for Freelance & Remote Clients.
 ---
 
 <p align="center">
-⭐ Let’s Turn Your Data into Business Growth ⭐
+⭐ Let’s Turn Your Data into Strategic Decisions ⭐
 </p>
