@@ -7,47 +7,44 @@ Freelance Data Analyst | Power BI Developer | MCA Graduate
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=I+Turn+Raw+Data+into+Business+Decisions;Power+BI+Dashboard+Developer;Python+EDA+Specialist;Available+for+Freelance+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=I+Turn+Business+Data+into+Profit;Power+BI+Dashboard+Developer;Python+EDA+%26+ML+Specialist;Helping+Startups+Make+Data-Driven+Decisions" />
 </p>
 
 <p align="center">
 <a href="mailto:tanmay.thakur632@gmail.com">
-<img src="https://img.shields.io/badge/Start%20Your%20Project-Contact%20Now-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Book%20Free%20Consultation-Start%20Now-success?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-# ❗ Business Problem
+# ❗ Business Challenge
 
-Most businesses struggle with:
+Many businesses face:
 
-❌ Manual Excel Reporting  
-❌ Unstructured Data  
+❌ Manual Reporting  
 ❌ No KPI Tracking  
-❌ No Decision Insights  
+❌ Excel Dependency  
+❌ Poor Decision Making  
 
-Which leads to:
+This leads to:
 
-📉 Poor Planning  
-📉 Delayed Decisions  
+📉 Wasted Time  
 📉 Productivity Loss  
+📉 Delayed Planning  
 
 ---
 
-# ✅ My Solution
+# ✅ My Data Solution
 
-I help businesses with:
+I help organizations:
 
-✔ Data Cleaning  
-✔ Dashboard Automation  
-✔ KPI Monitoring  
-✔ Business Intelligence  
-✔ Python Data Analysis  
-
-So you can make:
-
-📈 Data-Driven Decisions  
+✔ Automate Reports  
+✔ Monitor KPIs  
+✔ Clean Raw Data  
+✔ Visualize Trends  
+✔ Analyze Business Data  
+✔ Build Predictive Insights  
 
 ---
 
@@ -61,10 +58,21 @@ So you can make:
 
 ✔ 70% Reporting Time Reduced  
 ✔ Automated Workforce Insights  
-✔ Better KPI Monitoring  
+✔ Faster Decision Making  
 
 👉 Project Repo  
 https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
+
+---
+
+# 💰 ROI For Your Business
+
+| Manual Reporting | With Dashboard |
+|------------------|----------------|
+| 4 Hours Daily | 30 Minutes |
+| No Insights | KPI Monitoring |
+| Delayed Decisions | Real-Time Data |
+| Revenue Loss | Better Planning |
 
 ---
 
@@ -78,7 +86,7 @@ https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard
 
 ---
 
-# ⏱ Project Timeline
+# ⏱ Delivery Timeline
 
 | Package | Delivery |
 |---------|----------|
@@ -88,15 +96,17 @@ https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard
 
 ---
 
-# 🗣 Client Feedback
+# 🎁 Free Consultation
 
-⭐ Improved our reporting speed drastically  
-⭐ Professional dashboard delivery  
-⭐ Highly responsive freelancer  
+I offer:
+
+✔ Requirement Discussion  
+✔ Dataset Review  
+✔ Dashboard Suggestion  
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight"/>
@@ -104,7 +114,7 @@ https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard
 
 ---
 
-# 📞 Start Your Project
+# 📞 Book Your Project Now
 
 📧 tanmay.thakur632@gmail.com  
 📱 +91 8083603042  
@@ -112,5 +122,5 @@ https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard
 ---
 
 <p align="center">
-⭐ Let’s Turn Your Data into Strategic Growth ⭐
+⭐ Let’s Turn Your Data into Business Growth ⭐
 </p>
