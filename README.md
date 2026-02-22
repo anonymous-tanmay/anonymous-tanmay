@@ -71,7 +71,7 @@
 🔗 https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
 
 <p align="center">
-  <img src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg" width="600"/>
+  <img src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg" width="500"/>
 </p>
 
 ✔ Department-level analytics  
@@ -84,7 +84,7 @@
 🔗 https://github.com/anonymous-tanmay/Covid_Dashboard  
 
 <p align="center">
-  <img src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg" width="600"/>
+  <img src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg" width="500"/>
 </p>
 
 ✔ Country comparison  
