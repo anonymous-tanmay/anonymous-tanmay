@@ -1,147 +1,165 @@
-<!-- ================= PROFESSIONAL DARK HEADER ================= -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tanmay Raj | Data Analyst Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Tanmay%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0f2027;
+            background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+            color: white;
+        }
 
-<h2 align="center">Data Analyst | Aspiring Data Scientist | SQL • Power BI • Python</h2>
+        header {
+            text-align: center;
+            padding: 60px 20px;
+        }
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=650&lines=4%2B+Years+Experience+in+Data+Analytics;Business+Intelligence+%26+Dashboard+Specialist;Building+Machine+Learning+Solutions;Transforming+Data+into+Business+Impact"/>
-</p>
+        header h1 {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
 
----
+        header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
 
-# 👨‍💻 Professional Profile
+        .section {
+            padding: 60px 10%;
+        }
 
-Results-driven **Data Analyst with 4+ years of experience** in Business Intelligence, Data Management, and Reporting Automation.  
+        h2 {
+            border-left: 5px solid #00c6ff;
+            padding-left: 10px;
+            margin-bottom: 30px;
+        }
 
-Specialized in **SQL, Power BI, and data visualization**, with hands-on experience in designing scalable dashboards and structured data systems.
+        .card {
+            background: #1c2b36;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+        }
 
-Currently transitioning into **Data Science**, focusing on Machine Learning, predictive modeling, and end-to-end project deployment.
+        .card img {
+            width: 100%;
+            border-radius: 8px;
+        }
 
-📍 India  
-📧 tanmay.thakur632@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-raj-633755167/)
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #00c6ff;
+            color: black;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 15px;
+            font-weight: bold;
+        }
 
----
+        .skills span {
+            display: inline-block;
+            background: #00c6ff;
+            color: black;
+            padding: 8px 15px;
+            margin: 5px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
 
-# 💼 Professional Experience
+        footer {
+            text-align: center;
+            padding: 30px;
+            background: #0a151d;
+        }
 
-## Project Engineer – Silver Touch Technologies Ltd.  
-📅 May 2023 – Present  
+        a {
+            color: #00c6ff;
+            text-decoration: none;
+        }
 
-- Designed and implemented **Pan-India Employee Dashboard (CMPFO)** using Power BI  
-- Managed and structured large-scale Employee Master Data  
-- Performed data cleaning, transformation, and validation for reporting accuracy  
-- Automated recurring reports using SQL & Excel  
-- Collaborated with cross-functional teams for digital e-Office transformation  
+        @media(max-width:768px){
+            .section {
+                padding: 40px 5%;
+            }
+        }
+    </style>
+</head>
 
-### 🔎 Impact Highlights
-- Improved data visibility across departments  
-- Streamlined employee data monitoring  
-- Enhanced reporting efficiency and decision-making support  
+<body>
 
----
+<header>
+    <h1>Tanmay Raj</h1>
+    <p>Data Analyst | Aspiring Data Scientist | SQL • Power BI • Python</p>
+    <p>Transforming Data into Business Impact</p>
+</header>
 
-# 🛠 Core Technical Skills
+<div class="section">
+    <h2>About Me</h2>
+    <p>
+        Results-driven Data Analyst with 4+ years of experience in Business Intelligence,
+        dashboard development, and data management. Skilled in SQL, Power BI, and Python.
+        Currently transitioning into Data Science with focus on Machine Learning and predictive modeling.
+    </p>
+</div>
 
-### Programming & Data Analysis
-- SQL (Joins, Aggregations, Subqueries)
-- Python (Pandas, NumPy, Matplotlib)
-- R (Intermediate)
+<div class="section">
+    <h2>Technical Skills</h2>
+    <div class="skills">
+        <span>SQL</span>
+        <span>Power BI</span>
+        <span>Python</span>
+        <span>Excel</span>
+        <span>MySQL</span>
+        <span>Data Visualization</span>
+        <span>Machine Learning (Learning)</span>
+    </div>
+</div>
 
-### Business Intelligence
-- Power BI (DAX, Data Modeling, KPI Dashboards)
-- Advanced Excel (Pivot Tables, Lookup, Automation)
-- Tableau
+<div class="section">
+    <h2>Power BI Projects</h2>
 
-### Database Systems
-- MySQL
+    <div class="card">
+        <h3>CMPFO Employee Master Data Dashboard</h3>
+        <img src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg?raw=true">
+        <p>
+            Pan-India employee analytics dashboard with department insights,
+            employment tracking, and KPI monitoring.
+        </p>
+        <a class="btn" href="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard" target="_blank">
+            View Project
+        </a>
+    </div>
 
-### Currently Advancing In
-- Machine Learning (Regression, Classification)
-- Model Evaluation Techniques
-- Streamlit Deployment
-- End-to-End ML Workflows
+    <div class="card">
+        <h3>COVID-19 Global Analysis Dashboard</h3>
+        <img src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg?raw=true">
+        <p>
+            Global case trends, mortality rate analysis,
+            and time-series visualization dashboard.
+        </p>
+        <a class="btn" href="https://github.com/anonymous-tanmay/Covid_Dashboard" target="_blank">
+            View Project
+        </a>
+    </div>
 
----
+</div>
 
-# 📊 Key Projects
+<div class="section">
+    <h2>Contact</h2>
+    <p>Email: tanmay.thakur632@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/tanmay-raj-633755167/" target="_blank">Connect Here</a></p>
+</div>
 
-## 📁 CMPFO Employee Master Data Dashboard
-**Tools:** Power BI | SQL | Excel  
+<footer>
+    © 2026 Tanmay Raj | Data Portfolio
+</footer>
 
-- Department-wise analytics  
-- Employment lifecycle tracking  
-- Centralized HR reporting system  
-- Executive-level KPI dashboard  
-
-🔗 Repository:  
-https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
-
----
-
-## 🌍 COVID-19 Global Data Analysis
-**Tools:** Power BI | Excel  
-
-- Country-level trend analysis  
-- Mortality & recovery rate insights  
-- Time-series data visualization  
-- Comparative analytics  
-
-🔗 Repository:  
-https://github.com/anonymous-tanmay/Covid_Dashboard  
-
----
-
-## 💉 COVID-19 Vaccination Analytics
-**Tools:** Power BI  
-
-- State-wise vaccination progress  
-- Demographic-based insights  
-- Public health data visualization  
-
-🔗 Repository:  
-https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard  
-
----
-
-# 🧠 Data Science Development Path
-
-Actively building:
-
-- Regression & Classification Models  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Model Performance Optimization  
-- ML Deployment using Streamlit  
-
-Upcoming Projects:
-- House Price Prediction Model  
-- Customer Churn Prediction  
-- End-to-End ML Web App  
-
----
-
-# 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-tanmay&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🎯 Career Objective
-
-Seeking opportunities as a **Data Analyst / Junior Data Scientist** where I can apply advanced analytics, SQL expertise, and machine learning skills to drive measurable business outcomes.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-</p>
+</body>
+</html>
