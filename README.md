@@ -1,64 +1,135 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tanmay Analytics Studio</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    .scrolling-preview {
-      animation: scroll 12s linear infinite;
-    }
-    @keyframes scroll {
-      0% { transform: translateY(0); }
-      100% { transform: translateY(-50%); }
-    }
-  </style>
-</head>
-<body class="bg-gray-900 text-white font-sans"><!-- HERO --><section class="text-center py-20 px-4">
-  <h1 class="text-5xl font-bold mb-4">🚀 Tanmay Analytics Studio</h1>
-  <p class="text-xl mb-6">We Turn Business Data into Decisions</p>
-  <a href="mailto:tanmay.thakur632@gmail.com" class="bg-green-500 px-6 py-3 rounded-xl shadow-lg hover:bg-green-600">Book Free Consultation</a>
-</section><!-- CLIENT LOGOS --><section class="py-10 text-center">
-  <h2 class="text-3xl font-bold mb-6">Trusted By</h2>
-  <div class="flex justify-center gap-10 flex-wrap">
-    <!-- Replace these with real logos -->
-    <img src="https://via.placeholder.com/120x60" />
-    <img src="https://via.placeholder.com/120x60" />
-    <img src="https://via.placeholder.com/120x60" />
-  </div>
-</section><!-- SERVICES --><section class="py-16 px-8">
-  <h2 class="text-3xl font-bold text-center mb-10">Our Services</h2>
-  <div class="grid md:grid-cols-3 gap-8">
-    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg">
-      <h3 class="text-xl font-bold mb-2">BI Dashboards</h3>
-      <p>Interactive KPI dashboards using Power BI</p>
-    </div>
-    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg">
-      <h3 class="text-xl font-bold mb-2">Data Analytics</h3>
-      <p>Python EDA and business insights</p>
-    </div>
-    <div class="bg-gray-800 p-6 rounded-2xl shadow-lg">
-      <h3 class="text-xl font-bold mb-2">SQL Optimization</h3>
-      <p>Efficient database queries</p>
-    </div>
-  </div>
-</section><!-- PROJECT CARDS --><section class="py-16 px-8">
-  <h2 class="text-3xl font-bold text-center mb-10">Projects</h2>
-  <div class="grid md:grid-cols-2 gap-8">
-    <div class="bg-gray-800 rounded-2xl p-6">
-      <img src="https://via.placeholder.com/600x300" class="rounded-lg mb-4">
-      <h3 class="text-xl font-bold">Employee Dashboard</h3>
-      <p>HR KPI Monitoring System</p>
-    </div>
-    <div class="bg-gray-800 rounded-2xl p-6">
-      <img src="https://via.placeholder.com/600x300" class="rounded-lg mb-4">
-      <h3 class="text-xl font-bold">COVID Analytics</h3>
-      <p>Global Trend Dashboard</p>
-    </div>
-  </div>
-</section><!-- ML PORTFOLIO --><section class="py-16 px-8">
-  <h2 class="text-3xl font-bold text-center mb-10">Machine Learning Portfolio</h2>
-  <div class="grid md:grid-cols-3 gap-8">
-    <div class="bg-gray-800 p-6 rounded-2xl">Sales Forecasting</div>
-    <div class="bg-gray-800 p-6 rounded-2xl">Customer Segmentation</div>
-    <div class="bg-gray-800 p-6 rounded
+<!-- ================= HERO ================= -->
+
+<h1 align="center">🚀 Tanmay Analytics Studio</h1>
+
+<h3 align="center">
+Business Intelligence • Data Analytics • Dashboard Automation
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=We+Turn+Data+into+Decisions;Power+BI+%7C+Python+%7C+SQL;Helping+Startups+Scale+with+Analytics;Book+Your+Free+Consultation" />
+</p>
+
+<p align="center">
+<a href="mailto:tanmay.thakur632@gmail.com">
+<img src="https://img.shields.io/badge/Book%20Consultation-Start%20Now-success?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+# 👨‍💼 About The Founder
+
+Tanmay Raj  
+MCA Graduate | 4+ Years Enterprise Experience  
+
+Specialized in:
+
+✔ Business Intelligence  
+✔ Power BI Dashboard Development  
+✔ Python Data Analysis  
+✔ SQL Data Handling  
+✔ KPI Automation  
+
+Built solutions for enterprise-level structured MIS systems and digital transformation projects.
+
+---
+
+# 🏢 Our Services
+
+## 📊 Business Intelligence
+- Interactive Power BI Dashboards  
+- KPI Tracking Systems  
+- Executive Reporting  
+
+## 🐍 Data Analytics
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Trend & Pattern Insights  
+
+## 🗄 Data Engineering (Lite)
+- SQL Query Optimization  
+- Data Structuring  
+- ETL Support  
+
+---
+
+# 📊 Portfolio Projects
+
+## 👨‍💼 HR Workforce Analytics Dashboard
+
+<img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" width="700"/>
+
+✔ 70% Reporting Time Reduction  
+✔ Automated KPI Monitoring  
+✔ Workforce Trend Insights  
+
+Repository:  
+https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
+
+---
+
+## 🦠 Global COVID Analytics Dashboard
+
+✔ Time Series Analysis  
+✔ Trend Forecasting  
+✔ Global Data Visualization  
+
+Repository:  
+https://github.com/anonymous-tanmay/Covid_Dashboard  
+
+---
+
+# 📈 Impact Metrics
+
+| Metric | Value |
+|--------|-------|
+| Enterprise Experience | 4+ Years |
+| Dashboards Delivered | 10+ |
+| Reports Automated | 200+ |
+| Data Records Processed | 50K+ |
+
+---
+
+# 💰 Engagement Models
+
+| Plan | Best For | Pricing |
+|------|----------|--------|
+| Project-Based | One-Time Dashboard | $50+ |
+| Retainer | Monthly Reporting | Custom |
+| Consulting | BI Strategy | Hourly |
+
+---
+
+# 🛠 Technology Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,r,html,css,js"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PowerBI-Advanced-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-Intermediate-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 📞 Contact
+
+📧 tanmay.thakur632@gmail.com  
+📱 +91 8083603042  
+
+---
+
+<p align="center">
+⭐ Empowering Businesses with Data Intelligence ⭐
+</p>
