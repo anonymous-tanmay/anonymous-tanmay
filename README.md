@@ -1,135 +1,136 @@
-<!-- ================= HERO ================= -->
-
-<h1 align="center">🚀 Tanmay Analytics Studio</h1>
-
-<h3 align="center">
-Business Intelligence • Data Analytics • Dashboard Automation
-</h3>
+<!-- ================= DARK PROFESSIONAL HEADER ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=We+Turn+Data+into+Decisions;Power+BI+%7C+Python+%7C+SQL;Helping+Startups+Scale+with+Analytics;Book+Your+Free+Consultation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanmay%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+<h3 align="center">Freelance Data Analyst | Power BI Developer | Aspiring Data Scientist | MCA Graduate </h3>
 
 <p align="center">
-<a href="mailto:tanmay.thakur632@gmail.com">
-<img src="https://img.shields.io/badge/Book%20Consultation-Start%20Now-success?style=for-the-badge"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Power+BI+Dashboard+Expert;SQL+%7C+Python+%7C+Analytics;Future+Machine+Learning+Engineer"/>
 </p>
 
 ---
 
-# 👨‍💼 About The Founder
+## 👨‍💻 About Me
 
-Tanmay Raj  
-MCA Graduate | 4+ Years Enterprise Experience  
+🔹 4+ Years Experience in Data Analysis & e-Office Implementation  
+🔹 Built Pan-India Employee Dashboard (CMPFO)  
+🔹 Strong in SQL, Power BI & Data Visualization  
+🔹 Currently building Machine Learning & Python expertise  
+🔹 Passionate about solving real-world problems using Data  
 
-Specialized in:
-
-✔ Business Intelligence  
-✔ Power BI Dashboard Development  
-✔ Python Data Analysis  
-✔ SQL Data Handling  
-✔ KPI Automation  
-
-Built solutions for enterprise-level structured MIS systems and digital transformation projects.
+📍 India  
+📧 tanmay.thakur632@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-raj-633755167/)
 
 ---
 
-# 🏢 Our Services
+# 🛠 Tech Stack
 
-## 📊 Business Intelligence
-- Interactive Power BI Dashboards  
-- KPI Tracking Systems  
-- Executive Reporting  
+### 💻 Programming
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## 🐍 Data Analytics
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Trend & Pattern Insights  
+### 📊 Data & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## 🗄 Data Engineering (Lite)
-- SQL Query Optimization  
-- Data Structuring  
-- ETL Support  
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-# 📊 Portfolio Projects
-
-## 👨‍💼 HR Workforce Analytics Dashboard
-
-<img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" width="700"/>
-
-✔ 70% Reporting Time Reduction  
-✔ Automated KPI Monitoring  
-✔ Workforce Trend Insights  
-
-Repository:  
-https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🦠 Global COVID Analytics Dashboard
+# 🧠 Machine Learning Showcase (Building Phase 🚀)
 
-✔ Time Series Analysis  
-✔ Trend Forecasting  
-✔ Global Data Visualization  
+🔬 Currently working on:
 
-Repository:  
-https://github.com/anonymous-tanmay/Covid_Dashboard  
+✔ Regression Models  
+✔ Classification Models  
+✔ EDA using Pandas & Matplotlib  
+✔ Model Evaluation (Accuracy, RMSE, F1 Score)  
+✔ Streamlit Deployment  
 
----
-
-# 📈 Impact Metrics
-
-| Metric | Value |
-|--------|-------|
-| Enterprise Experience | 4+ Years |
-| Dashboards Delivered | 10+ |
-| Reports Automated | 200+ |
-| Data Records Processed | 50K+ |
+📌 Upcoming Projects:
+- House Price Prediction (Regression)
+- Customer Churn Prediction (Classification)
+- End-to-End ML Deployment Project
 
 ---
 
-# 💰 Engagement Models
+# 📊 Power BI Project Highlights
 
-| Plan | Best For | Pricing |
-|------|----------|--------|
-| Project-Based | One-Time Dashboard | $50+ |
-| Retainer | Monthly Reporting | Custom |
-| Consulting | BI Strategy | Hourly |
+### 📁 CMPFO Employee Master Data Dashboard
+🔗 https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard  
 
----
-
-# 🛠 Technology Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,r,html,css,js"/>
+<p align="center">
+  <img src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg" width="600"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/PowerBI-Advanced-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-Intermediate-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge"/>
+✔ Department-level analytics  
+✔ Employment status monitoring  
+✔ Pan-India HR insights  
+
+---
+
+### 🌍 COVID-19 Global Analysis Dashboard
+🔗 https://github.com/anonymous-tanmay/Covid_Dashboard  
+
+<p align="center">
+  <img src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg" width="600"/>
 </p>
+
+✔ Country comparison  
+✔ Mortality & recovery analysis  
+✔ Time-series visualization  
 
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-tanmay&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-tanmay&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📞 Contact
 
-📧 tanmay.thakur632@gmail.com  
-📱 +91 8083603042  
+# 🏆 Certifications
+
+🎓 Microsoft Certified: Power BI Data Analyst Associate  
+🎓 Data Science Bootcamp – Udemy  
+🎓 Data Science with Python – Simplilearn  
+🎓 Python Foundation – LinkedIn  
+🎓 MS Excel – Alison  
+
+---
+
+# 🎯 2026 Career Goal
+
+🚀 Transition into Data Scientist Role  
+📊 Build End-to-End ML Systems  
+🌐 Deploy Real-World AI Applications  
+📈 Solve Business Problems Using Data  
 
 ---
 
 <p align="center">
-⭐ Empowering Businesses with Data Intelligence ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+
+---
